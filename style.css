@@ -856,7 +856,7 @@ footer .copyright{
         color: #0c200d;
     }
 }
-@media (max-width:350px) {
+@media (max-width:481px) {
     *{
         margin: 0;
         box-sizing: border-box;
