@@ -67,7 +67,7 @@ hr{
     display: none;
 }
 #Home{
-    background-image: url("../../Raw/belur.jpg");
+    background-image: url("Raw/belur.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 1000px;
@@ -117,7 +117,7 @@ hr{
     margin: 30px 0;
 }
 #About .about{
-    background-image: url(../../Raw/background.jpeg);
+    background-image: url(Raw/background.jpeg);
     /* background-color: #518e12; */
     /* color: #fff; */
     padding: 30px 250px;
@@ -350,7 +350,7 @@ hr{
     padding: 20px;
     height: 80%;
     margin-top: 20px;
-    background-image: url(../../Raw/cool-background.png);
+    background-image: url(Raw/cool-background.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -586,7 +586,7 @@ footer .copyright{
         width: 100%;
     }
     #About .about{
-        background-image: url(../../Raw/background.jpeg);
+        background-image: url(Raw/background.jpeg);
         /* background-color: #518e12; */
         /* color: #fff; */
         height: 80%;
@@ -901,7 +901,7 @@ footer .copyright{
         width: 100%;
     }
     #About .about{
-        background-image: url(../../Raw/background.jpeg);
+        background-image: url(Raw/background.jpeg);
         /* background-color: #518e12; */
         /* color: #fff; */
         height: 80%;
@@ -1142,7 +1142,7 @@ footer .copyright{
     #Contact{
         width: 100%;
         padding: 20px;
-        background-image: url(../../Raw/cool-background.png);
+        background-image: url(Raw/cool-background.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
