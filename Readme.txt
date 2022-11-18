@@ -1,15 +1,3 @@
-Student Name : Sharmistha Debnath
-
-Project Name : E-commerce Photography Website using HTML5, CSS3, JAVASCRIPT
-
-Course Name : Responsive Web Development
-
-Project Starting Date : 
-
-Project Ending Date : 
-
-
-
 
 //----------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------//
