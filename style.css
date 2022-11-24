@@ -650,68 +650,82 @@ footer .copyright{
     .one{
         width: 50%;
         height: 250px;
-        margin: 20px 0 0 70px;
+        margin: 20px 0 0 30px;
         border-radius: 25px;
     }
     .two{
-        width: 40%;
+        width: 30%;
         height: 250px;
-        margin: 20px 70px 0 0;
+        margin: 20px 30px 0 0;
         border-radius: 25px;
     }
     .three{
-        width: 40%;
+        width: 30%;
         height: 250px;
-        margin: 20px 0 0 70px;
+        margin: 20px 0 0 30px;
         border-radius: 25px;
     }
     .four{
         width: 50%;
         height: 250px;
-        margin: 20px 70px 0 0;
+        margin: 20px 30px 0 0;
         border-radius: 25px;
     }
     .five{
-        width: 50%;
+        width: 30%;
         height: 250px;
-        margin: 20px 0 0 70px;
+        margin: 20px 0 0 30px;
         border-radius: 25px;
     }
     .six{
-        width: 40%;
+        width: 50%;
         height: 250px;
-        margin: 20px 70px 0 0;
+        margin: 20px 30px 0 0;
         border-radius: 25px;
     }
     .seven{
-        width: 50%;
+        width: 35%;
         height: 250px;
-        margin: 20px 0 0 70px;
+        margin: 20px 0 0 30px;
         border-radius: 25px;
     }
     .eight{
-        width: 40%;
+        width: 45%;
         height: 250px;
-        margin: 20px 70px 0 0;
+        margin: 20px 30px 0 0;
         border-radius: 25px;
     }
     .nine{
-        width: 40%;
+        width: 45%;
         height: 250px;
-        margin: 20px 0 0 70px;
+        margin: 20px 0 0 30px;
         border-radius: 25px;
     }
     .ten{
-        width: 50%;
+        width: 35%;
         height: 250px;
-        margin: 20px 70px 0 0;
+        margin: 20px 30px 0 0;
         border-radius: 25px;
     }
-    #big{
-        font-size: 20px;
-        margin: 15px;
-        /* font-weight: 100; */
-        /* writing-mode: vertical-rl; */
+    .btn2{
+        font-size: 16px;
+        font-weight: 300;
+        padding: 15px 20px;
+        margin: 40px 0 0 200px;
+        color: #ffffff;
+        /* background: transparent; */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        outline: none;
+        transition: 0.2s;
+        background: hsla(37, 80%, 42%, 1);
+        background: linear-gradient(90deg, hsla(37, 80%, 42%, 1) 0%, hsla(47, 88%, 51%, 1) 100%);
+        background: -moz-linear-gradient(90deg, hsla(37, 80%, 42%, 1) 0%, hsla(47, 88%, 51%, 1) 100%);
+        background: -webkit-linear-gradient(90deg, hsla(37, 80%, 42%, 1) 0%, hsla(47, 88%, 51%, 1) 100%);
+        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#C28016", endColorstr="#F0C014", GradientType=1 );
+        /* background-position-x: center;
+        background-position-y: center; */
     }
     #cont{
         display: flex;
@@ -856,7 +870,7 @@ footer .copyright{
         color: #0c200d;
     }
 }
-@media (max-width:481px) {
+@media (max-width:503px) {
     *{
         margin: 0;
         box-sizing: border-box;
@@ -963,61 +977,61 @@ footer .copyright{
     }
     .one{
         width: 50%;
-        height: 150px;
+        height: 250px;
         margin: 20px 0 0 30px;
         border-radius: 25px;
     }
     .two{
         width: 30%;
-        height: 150px;
+        height: 250px;
         margin: 20px 30px 0 0;
         border-radius: 25px;
     }
     .three{
         width: 30%;
-        height: 150px;
+        height: 250px;
         margin: 20px 0 0 30px;
         border-radius: 25px;
     }
     .four{
         width: 50%;
-        height: 150px;
+        height: 250px;
         margin: 20px 30px 0 0;
         border-radius: 25px;
     }
     .five{
         width: 30%;
-        height: 150px;
+        height: 250px;
         margin: 20px 0 0 30px;
         border-radius: 25px;
     }
     .six{
         width: 50%;
-        height: 150px;
+        height: 250px;
         margin: 20px 30px 0 0;
         border-radius: 25px;
     }
     .seven{
         width: 35%;
-        height: 150px;
+        height: 250px;
         margin: 20px 0 0 30px;
         border-radius: 25px;
     }
     .eight{
         width: 45%;
-        height: 150px;
+        height: 250px;
         margin: 20px 30px 0 0;
         border-radius: 25px;
     }
     .nine{
         width: 45%;
-        height: 150px;
+        height: 250px;
         margin: 20px 0 0 30px;
         border-radius: 25px;
     }
     .ten{
         width: 35%;
-        height: 150px;
+        height: 250px;
         margin: 20px 30px 0 0;
         border-radius: 25px;
     }
